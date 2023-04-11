@@ -16,3 +16,22 @@ div{
 .absolute{
  font-size: 32px;
 }
+/* END */
+
+/* REM VALUES */
+/* rem value- RELATIVE depends on the root */
+/* 1rem= 16px default browser style */
+
+html{
+ font-size: 32px;
+}
+div{
+ font-size: 10px;
+}
+.relative{
+ font-size: 2rem;
+}
+
+.absolute{
+ font-size: 32px;
+}
